@@ -1,0 +1,24 @@
+Jota,CF,Finishing=85,Positioning=80,Dribbling=83,Strength=75,Pace=88,Heading Ability=78,Link-Up Play=82,Off-the-ball Movement=85,Vision and Creativity=80
+Salah,RW,Dribbling=90,Crossing=78,Pace=92,Shooting=87,Off-the-ball Movement=88
+Diaz,LW,Dribbling=88,Crossing=80,Pace=90,Shooting=85,Off-the-ball Movement=86
+Endo,DM,Tackling=85,Interceptions=82,Passing Accuracy=80,Positioning=85,Work Rate=85
+Mac Alister,LDM,Tackling=83,Interceptions=80,Passing Accuracy=82,Positioning=85,Work Rate=84
+Szoboszlai,RDM,Tackling=84,Interceptions=81,Passing Accuracy=83,Positioning=84,Work Rate=86
+Robertson,LB,Tackling=83,Positioning=82,Crossing=88,Stamina=90,Defensive Awareness=85
+Van Dijk,LCB,Tackling=90,Heading Ability=90,Positioning=88,Strength=92,Passing=85
+Konate,RCB,Tackling=86,Heading Ability=88,Positioning=85,Strength=90,Passing=82
+Arnold,RB,Tackling=85,Positioning=83,Crossing=90,Stamina=88,Defensive Awareness=84
+Allison,Goalkeeper,Shot Stopping=90,Handling=88,Positioning=89,Command of Area=88,Distribution=85
+Thiago,Injury List,Fitness Level=85
+Bacetic,Injury List,Fitness Level=83
+Gakpo,CF,Finishing=82,Positioning=79,Dribbling=85,Strength=76,Pace=87,Heading Ability=75,Link-Up Play=80,Off-the-ball Movement=83,Vision and Creativity=78
+Nunez,CF,Finishing=80,Positioning=77,Dribbling=84,Strength=77,Pace=86,Heading Ability=74,Link-Up Play=78,Off-the-ball Movement=82,Vision and Creativity=76
+Elliot,RW,Dribbling=85,Crossing=77,Pace=90,Shooting=82,Off-the-ball Movement=84
+Diaz,RW,Dribbling=86,Crossing=79,Pace=88,Shooting=83,Off-the-ball Movement=85
+Doak,RW,Dribbling=83,Crossing=75,Pace=85,Shooting=80,Off-the-ball Movement=82
+Curtis Jones,LDM,Tackling=80,Interceptions=78,Passing Accuracy=85,Positioning=82,Work Rate=80
+Gravenberch,LDM,Tackling=82,Interceptions=80,Passing Accuracy=84,Positioning=83,Work Rate=81
+Codwell,LDM,Tackling=78,Interceptions=76,Passing Accuracy=82,Positioning=80,Work Rate=78
+Quansah,CB,Tackling=78,Heading Ability=78,Positioning=80,Strength=80,Passing=75
+Kelleher,Goalkeeper,Shot Stopping=85,Handling=86,Positioning=87,Command of Area=86,Distribution=82
+Adrian,Goalkeeper,Shot Stopping=82,Handling=84,Positioning=85,Command of Area=84,Distribution=80

@@ -4,7 +4,7 @@
 
 ## Description 
 
-The Football Manager Assistant Beta Version is a Python-based machine learning program designed to assist football managers in organizing their team lineups and substitutions based on player attributes. It offers functionalities to read player data from a file, determine the best player for each position, and output starting lineups along with substitutes.
+The Football Manager Assistant Beta Version is a Python-based  program designed to assist football managers in organizing their team lineups and substitutions based on player attributes. It offers functionalities to read player data from a file, determine the best player for each position, and output starting lineups along with substitutes.
 
 ## Features 
 -  Player Data Management: Read player data from an external file (players.txt).

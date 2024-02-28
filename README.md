@@ -1,4 +1,4 @@
-# Football-Manager-Assistant-Beta-Version -
+# Football-Manager-Assistant-Beta-Version 
 
 ## Description 
 

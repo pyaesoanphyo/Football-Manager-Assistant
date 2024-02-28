@@ -11,19 +11,19 @@ The Football Manager Assistant Beta Version is a Python-based program designed t
 - Substitution Suggestions: Identify substitute players for positions where the best fit is not available.
 - Error Handling: Provides robust error handling to manage missing files and unexpected data formats.
 
-# Usage - 
+## Usage 
 - Input Player Data: Ensure the player data file (players.txt) is correctly formatted with player information.
 - Run the Program: Execute the main() function to generate starting lineups and substitutes.
 - Review Outputs: Check the console output for the suggested starting lineup and substitutes.
 - Optimize Lineups: Adjust player attributes or input data to refine lineup suggestions.
 
-# How to Contribute - 
+## How to Contribute 
 - Report Issues: Report any bugs, errors, or feature requests by creating an issue in the repository.
 - Submit Enhancements: Feel free to contribute enhancements or new features by forking the repository and creating a pull request.
 
-# Feedback - 
+## Feedback  
 Your feedback is invaluable for improving the Football Manager Assistant. Please share your thoughts, suggestions, or any issues you encounter. Together, we can build a robust and user-friendly tool for football management enthusiasts.
 
-# Disclaimer -
+## Disclaimer 
 This version is in beta stage, and while efforts have been made to ensure accuracy and reliability, there may still be bugs or limitations. Use at your discretion.
 
